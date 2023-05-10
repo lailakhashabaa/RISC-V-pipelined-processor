@@ -1,5 +1,5 @@
 # RISC-V-pipelined-processor
-Our project supports all RISC-VI 40 instructions as well as the 8 RISCV32M multiplication and division instructions. 
+Our project supports all RISC-VI 40 instructions as well as the 8 RISCV32M multiplication and division instructions 
 - All R-format instructions
 - All I-format instructions
 - All load and store instructions
